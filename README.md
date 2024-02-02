@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tirth</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on [Diamon Price prediction](https://github.com/TIRTH1010/Diamondprice_ML_Project)
+- 🔭 I’m currently working on [Machine Learning with Mlops Integration](https://github.com/TIRTH1010/Wine_quality_MLops_Project)
 
 - 🌱 I’m currently learning **Mlops and DVC**
 
